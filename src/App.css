@@ -533,6 +533,7 @@ nav {
   margin-top: 15%;
   padding-bottom: 5px;
   width: 60%;
+  font-size: large;
   height: auto;
   left: -40vw;
 }
@@ -583,7 +584,7 @@ nav {
   top: 2%;
   left: 0%;
   cursor: pointer;
-  font-size: 150%;
+  font-size: large;
   transition: 0.7s;
 
 }
@@ -603,7 +604,7 @@ nav {
   padding-left: 20%;
   padding-bottom: 5px;
   width: 56%;
-
+  font-size: large;
   cursor: pointer;
 
 }
